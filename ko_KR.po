@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: KaiNote Korea language\n"
-"PO-Revision-Date: 2021-04-30 09:54+0900\n"
+"PO-Revision-Date: 2021-08-31 13:16+0900\n"
 "Last-Translator: labrie <labrie75@naver.com>\n"
 "Language-Team: labrie75@naver.com\n"
 "Language: ko_KR\n"
@@ -187,7 +187,7 @@ msgid "0 - ANSI"
 msgstr "0 - ANSI"
 
 msgid "0: Autopodział, górna linijka jest szersza"
-msgstr "0: 자동, 더 넓은 상단 라인"
+msgstr "0: 자동, 더 넓은 위 라인"
 
 msgid "1 - Domyślny"
 msgstr "1 - 기본"
@@ -247,7 +247,7 @@ msgid "2: Brak podziału, dzieli \\n i \\N"
 msgstr "2: \\n과 \\N은 다르지 않습니다"
 
 msgid "3: Autopodział, dolna linijka jest szersza"
-msgstr "3: 자동, 하단 더 넓게"
+msgstr "3: 자동, 아래 더 넓게"
 
 msgid "5 sekund do przodu"
 msgstr "5초 앞으로"
@@ -542,6 +542,9 @@ msgstr "자막 재생 시간"
 msgid "Czas trwania wideo"
 msgstr "영상의 길이"
 
+msgid "Czas trwania:"
+msgstr "지속 시간:"
+
 msgid "Czas ujemny"
 msgstr "적용할 수 없음"
 
@@ -617,6 +620,9 @@ msgstr "태그 버튼 4"
 msgid "Czy na pewno chcesz przenieść wczytany plik wideo do kosza?"
 msgstr "불러 온 영상을 휴지통으로 이동 할까요?"
 
+msgid "Czy na pewno chcesz przywrócić ustawienia domyślne?"
+msgstr "기본값으로 재설정 하시겠습니까?"
+
 msgid "Czy na pewno chcesz usunąć ten katalog"
 msgstr "카탈로그를 삭제하시겠습니까"
 
@@ -682,6 +688,9 @@ msgstr "곡선으로 그리기"
 msgid "Dodaj krzywą Beziera"
 msgstr "곡선 제어점 추가"
 
+msgid "Dodaj kształt"
+msgstr "모양 추가"
+
 msgid "Dodaj linie"
 msgstr "선택 줄 하위 항목으로 추가"
 
@@ -693,6 +702,9 @@ msgstr "별도의 제어점 추가"
 
 msgid "Dodaj regułę"
 msgstr "규칙 추가"
+
+msgid "Dodaj tag"
+msgstr "태그 추가"
 
 msgid "Dodaj wstęp"
 msgstr "도입부 추가"
@@ -791,6 +803,9 @@ msgstr "갱신 정보"
 msgid "Edycja Stylu"
 msgstr "스타일 편집"
 
+msgid "Edycja kształtów wektorowych"
+msgstr "벡터 모양 편집"
+
 msgid "Edycja linii"
 msgstr "줄 편집"
 
@@ -802,6 +817,12 @@ msgstr "규칙 편집"
 
 msgid "Edycja stylów"
 msgstr "스타일 편집"
+
+msgid "Edycja tagów"
+msgstr "태그 편집"
+
+msgid "Edycja tagów z listy oraz tworzenie nowych"
+msgstr "목록에서 태그 편집 및 새 태그 생성"
 
 msgid "Edycja wielu linii"
 msgstr "여러 줄 편집"
@@ -820,6 +841,9 @@ msgstr "편집박스 맞춤법 오류 배경"
 
 msgid "Edytor ciągi znaków template"
 msgstr "편집박스 템플릿 문자열"
+
+msgid "Edytor dzielenie linii i rysunki ASS"
+msgstr "줄 분할 및 그리기"
 
 msgid "Edytor funkcje template"
 msgstr "편집박스 템플릿 기능"
@@ -876,6 +900,12 @@ msgstr "편집박스 템플릿 변수"
 
 msgid "Edytor znaczniki kodu template"
 msgstr "편집박스 템플릿 코드 표시"
+
+msgid "Edytowany kształt"
+msgstr "모양 편집"
+
+msgid "Edytowany tag"
+msgstr "태그 편집"
 
 msgid "Edytuj"
 msgstr "편집"
@@ -1004,6 +1034,9 @@ msgstr "소리"
 msgid "Historia"
 msgstr "기록"
 
+msgid "Hydra"
+msgstr "Hydra"
+
 msgid "Ignoruj"
 msgstr "무시"
 
@@ -1123,6 +1156,9 @@ msgstr "키 프레임: "
 msgid "Klatki na Sekundę"
 msgstr "초당 프레임"
 
+msgid "Klatki na sekundę:"
+msgstr "초당 프레임:"
+
 msgid "Kliknięciu linii lub edycji"
 msgstr "줄 또는 에디션을 클릭[?]"
 
@@ -1176,6 +1212,9 @@ msgstr "두 번째 색상"
 
 msgid "Kolor zastępczy do karaoke"
 msgstr "두 번째 색상(노래방 사용 시)"
+
+msgid "Kolor:"
+msgstr "색상:"
 
 msgid "Kolory i przezroczystość:"
 msgstr "색상과 투명도:"
@@ -1288,6 +1327,9 @@ msgstr "편집"
 msgid "Kotwica dla obrotów"
 msgstr "회전 앵커"
 
+msgid "Kształt:"
+msgstr "모양:"
+
 msgid "Które linijki"
 msgstr "변경 선택"
 
@@ -1306,11 +1348,26 @@ msgstr "각도"
 msgid "Kąt:"
 msgstr "각도:"
 
+msgid "Lewo-dół"
+msgstr "왼쪽-아래"
+
+msgid "Lewo-góra"
+msgstr "왼쪽-위"
+
+msgid "Lewo-ponad"
+msgstr "왼쪽-아래로"
+
+msgid "Lewo-poniżej"
+msgstr "왼쪽-위로"
+
+msgid "Lewo-środek"
+msgstr "왼쪽-가운데"
+
 msgid "Lewy dolny róg"
-msgstr "왼쪽 하단"
+msgstr "왼쪽 아래"
 
 msgid "Lewy górny róg"
-msgstr "왼쪽 상단"
+msgstr "왼쪽 위"
 
 msgid "Lewy przycisk myszy pauzuje wideo"
 msgstr "마우스 왼쪽 버튼으로 영상 일시 중지"
@@ -1320,6 +1377,9 @@ msgstr "Libass는 FFMS2에서만 작동합니다"
 
 msgid "Libass otwiera tylko napisy ASS i SSA"
 msgstr "Libass는 ASS 및 SSA 자막만 엽니다"
+
+msgid "Liczby po przecinku:"
+msgstr "Number after dot:"
 
 msgid "Liczbę plików autozapisu można ustawić od 2 do 1000000"
 msgstr "자동 저장 수는 2에서 1000000까지 설정할 수 있습니다"
@@ -1364,6 +1424,15 @@ msgid "Lipiec"
 msgstr "7월"
 
 msgid ""
+"Lista gotowych rysunków ASS z możliwością edycji.\n"
+"Po wybraniu rysunku z listy należy ustawić kursor\n"
+"w miejcu początku przytrzymać lewy przycisk myszy i przeciągnąć."
+msgstr ""
+"편집 옵션이 있는 ASS 그림 목록입니다.\n"
+"목록에서 도면을 선택한 후 커서를 제자리에 설정하세요\n"
+"그림을 시작하고 마우스 왼쪽 버튼을 클릭하여 끕니다.."
+
+msgid ""
 "Lista katalogów ma opcję autozapisu, pliki znajdują się w folderze \"Config"
 "\"."
 msgstr ""
@@ -1389,6 +1458,9 @@ msgstr "고정 메뉴 타이틀 배경"
 
 msgid "Lista statyczna zaznaczenie"
 msgstr "고정 메뉴 선택 배경"
+
+msgid "Lista z tagami obsługiwanymi przez narzędzie"
+msgstr "시각적 도구를 편집할 수 있는 태그 목록"
 
 msgid "Listopad"
 msgstr "11월"
@@ -1435,6 +1507,9 @@ msgstr "'%s'인 매크로가 이미 스크립트 '%s'에 정의되어 있습니�
 msgid "Maksymalna ilość plików autozapisu"
 msgstr "자동 저장 파일 갯수"
 
+msgid "Maksymalna wartość:"
+msgstr "최대값:"
+
 msgid ""
 "Maksymalne przesunięcie do klatki kluczowej\n"
 "po czasie końcowym w milisekundach"
@@ -1473,7 +1548,7 @@ msgid "Margines górny i dolny"
 msgstr "세로 여백"
 
 msgid "Margines górny i dolny linijki"
-msgstr "세로 여백(상단 및 하단 여백)"
+msgstr "세로 여백(위 및 아래 여백)"
 
 msgid "Margines lewy"
 msgstr "왼쪽 여백"
@@ -1482,7 +1557,7 @@ msgid "Margines lewy linijki"
 msgstr "왼쪽 여백"
 
 msgid "Margines lewy:"
-msgstr "왼쪽 여백:"
+msgstr "왼쪽:"
 
 msgid "Margines pionowy"
 msgstr "세로 여백"
@@ -1519,6 +1594,9 @@ msgstr "메뉴 배경"
 
 msgid "Menu tło zaznaczenia"
 msgstr "선택 메뉴 배경"
+
+msgid "Minimalna wartość:"
+msgstr "최소값:"
 
 msgid "Minuta do przodu"
 msgstr "1분 앞으로"
@@ -1630,6 +1708,9 @@ msgid ""
 "nie działają na komentarzach"
 msgstr "이 도구는 주석에서 동작하지 않습니다"
 
+msgid "Narzędzie hydra"
+msgstr "Visual tool hydra"
+
 msgid "Narzędzie obrotów w osi Z"
 msgstr "Z 축 회전 도구"
 
@@ -1717,11 +1798,17 @@ msgstr "스타일 이름이 수정되었습니다. 모두 새 이름으로 변�
 msgid "Nazwa stylu:"
 msgstr "스타일 이름:"
 
+msgid "Nazwa:"
+msgstr "이름:"
+
 msgid "Nic"
 msgstr "없음"
 
 msgid "Nie"
 msgstr "아니오"
+
+msgid "Nie mona pobra wartoci clipa prostoktnego."
+msgstr "\"%s\" 글꼴 내용을 가져올 수 없음."
 
 msgid "Nie mona stworzy czcionki D3DX"
 msgstr "D3DX 글꼴을 만들 수 없음"
@@ -1816,6 +1903,9 @@ msgid ""
 msgstr ""
 "글꼴 파일 크기와 이름을 얻을 수 없습니다,\n"
 "복사가 취소되었습니다.\n"
+
+msgid "Nie można pobrać wartości clipa prostokątnego."
+msgstr "직사각형 클립 값을 가져올 수 없습니다."
 
 msgid "Nie można pobrać zawartości czcionki \"%s\"."
 msgstr "\"%s\"글꼴 내용을 가져올 수 없습니다."
@@ -1913,6 +2003,12 @@ msgstr "매트릭스보기를 설정할 수 없음"
 
 msgid "Nie można ustawić opóźnienia, przekracza czas trwania audio"
 msgstr "지연 실패, 소리 길이 초과"
+
+msgid "Nie można usunąć wszystkich kształtów z listy"
+msgstr "목록에서 모든 모양을 제거할 수 없습니다"
+
+msgid "Nie można usunąć wszystkich tagów z listy"
+msgstr "목록에서 모든 태그를 제거할 수 없습니다t"
 
 msgid "Nie można utworzyć VideoSource."
 msgstr "영상 소스를 만들 수 없음."
@@ -2116,6 +2212,9 @@ msgstr "확인되지 않음"
 msgid "Niepoprawny format (plik uszkodzony lub zawiera błędy)"
 msgstr "잘못된 형식(파일이 손상되었거나 오류가 포함되어 있을 수 있음)"
 
+msgid "Nieprawidłowa wartość fps."
+msgstr "잘못된 프레임."
+
 msgid "Nieprawidłowy FPS. Popraw opcje i spróbuj ponownie."
 msgstr "잘못된 프레임입니다. 설정에서 수정하고 다시 시도하십시오."
 
@@ -2157,6 +2256,12 @@ msgstr "새로운 스타일"
 
 msgid "Nowy katalog stylów"
 msgstr "새로운 스타일 목록"
+
+msgid "Nowy ksztatł już istnieje na liście, wpisz inną nazwę."
+msgstr "새 모양 이름이 이미 존재합니다. 다른 이름을 입력하십시오."
+
+msgid "Nowy tag już istnieje na liście, wpisz inną nazwę."
+msgstr "새 태그가 이미 존재합니다. 다른 이름을 입력하십시오."
 
 msgid "O Kainote"
 msgstr "Kainote 정보"
@@ -2420,11 +2525,29 @@ msgstr "선택"
 msgid "Opcje dopasowywania tłumaczenia"
 msgstr "일치하는 줄 옵션"
 
+msgid "Opcje dummy wideo"
+msgstr "빈 영상 파일 설정"
+
 msgid "Opcje ostatniej sesji"
 msgstr "마지막 작업 설정"
 
 msgid "Opcje skalowania"
 msgstr "리샘플 설정"
+
+msgid ""
+"Opcje zmiany tagów:\n"
+"Dodaj - zmienia wszystkie tagi dodając ruch z suwaka.\n"
+"Wstaw - wstawia w miejsce kursora w przypadku jednej linii\n"
+"albo na początku w przypadku wielu linii.\n"
+"Pomnóż - mnoży ruch suwaka przez numer zaznaczonej linijki\n"
+"pierwsza linia nie jest zmieniana."
+msgstr ""
+"태그 변경 옵션:\n"
+"추가 - 슬라이더의 트래픽을 추가하여 모든 태그를 변경합니다.\n"
+"삽입 - 한 줄 일 때 커서 위치에 태그를 삽입 \n"
+"또는 여러 줄의 시작 부분에.\n"
+"다중 - 슬라이더 이동에 선택한 줄의 수를 추가합니다.\n"
+"첫 번째 줄은 변경되지 않습니다."
 
 msgid "Opis"
 msgstr "설명"
@@ -2483,6 +2606,9 @@ msgstr "임시 파일 제거 창 열기"
 msgid "Otwiera pomoc w domyślnej przeglądarce"
 msgstr "기본 브라우저에서 도움말 열기"
 
+msgid "Otwiera puste audio na 2:30 godziny"
+msgstr "2시간 30분 길이의 빈 소리 열기"
+
 msgid "Otwiera wideo przez FFMS2, co daje dokładność klatkową"
 msgstr "프레임 정밀도를 위해 FFMS2로 영상 열기"
 
@@ -2519,6 +2645,9 @@ msgstr "영상/소리 파일 열기"
 msgid "Otwórz autozapis"
 msgstr "자동 저장 파일 열기"
 
+msgid "Otwórz dummy wideo"
+msgstr "빈 영상 열기"
+
 msgid "Otwórz edytor"
 msgstr "편집박스 열기"
 
@@ -2552,6 +2681,9 @@ msgstr "자동 저장된 파일 열기"
 msgid "Otwórz plik napisów"
 msgstr "자막 파일 열기"
 
+msgid "Otwórz puste audio na 2:30 godziny"
+msgstr "2시간 30분 길이의 빈 소리 열기"
+
 msgid "Otwórz wideo"
 msgstr "영상 파일 열기"
 
@@ -2571,10 +2703,10 @@ msgid "Pasek menu obramowanie zaznaczenia"
 msgstr "메뉴 마우스 오버 테두리"
 
 msgid "Pasek menu tło 1"
-msgstr "상단 메뉴 색상 1"
+msgstr "위 메뉴 색상 1"
 
 msgid "Pasek menu tło 2"
-msgstr "상단 메뉴 색상 2"
+msgstr "위 메뉴 색상 2"
 
 msgid "Pasek przewijania suwak"
 msgstr "스크롤바"
@@ -2589,7 +2721,7 @@ msgid "Pasek przewijania tło"
 msgstr "스크롤바 배경"
 
 msgid "Pasek statusu obramowanie"
-msgstr "하단 상태 바 테두리"
+msgstr "아래 상태 바 테두리"
 
 msgid "Pasek szukania"
 msgstr "검색 바"
@@ -2745,6 +2877,9 @@ msgstr "왼쪽"
 msgid "Po prawej"
 msgstr "오른쪽"
 
+msgid "Pobierz kształt z aktywnej linii"
+msgstr "활성 라인에서 모양 가져오기"
+
 msgid "Pobierz z napisów"
 msgstr "자막에서"
 
@@ -2845,6 +2980,22 @@ msgstr "VSFilter모드 태그 표시"
 msgid "Pokaż wszystkie tagi"
 msgstr "모든 태그 표시"
 
+msgid ""
+"Pole \"Maksymalna wartość\" musi zawierać wartość\n"
+"większą od pola \"Minimalna wartość\"."
+msgstr ""
+"Field \"Maximum value\" have to contain value\n"
+"greater from field \"Minimum value\"."
+
+msgid "Pole \"Przeskok\" zawiera liczbę zbyt wysoką dla danego przedziału."
+msgstr "Field \"Step\" contains number too great for current min - max range."
+
+msgid "Pole \"Tag\" nie może być puste."
+msgstr "Field \"Tag\" cannot be empty."
+
+msgid "Pole \"kształt\" nie może być puste."
+msgstr "Field \"shape\" cannot be empty."
+
 msgid "Pole tekstowe obramowanie"
 msgstr "글자 박스 테두리"
 
@@ -2865,6 +3016,9 @@ msgstr "태그 제외"
 
 msgid "Pomiń tekst"
 msgstr "글자 제외"
+
+msgid "Pomnóż"
+msgstr "다중"
 
 msgid "Pomo&c"
 msgstr "도움말[&H]"
@@ -2959,11 +3113,20 @@ msgstr "도구 모음 정렬"
 msgid "Pozycja tekstu"
 msgstr "글자 위치"
 
+msgid "Pozycjonuj w osi X"
+msgstr "X축에 위치 지정"
+
+msgid "Pozycjonuj w osi Y"
+msgstr "Y축에 위치 지정"
+
 msgid "Położenie tekstu"
 msgstr "글자 위치"
 
 msgid "Położenie tekstu (układ SSA)"
 msgstr "글자 정렬 (SSA)"
+
+msgid "Położenie tekstu, działa podobnie jak w stylach"
+msgstr "텍스트 배치는 스타일과 유사하게 작동합니다"
 
 msgid "Położenie tekstu:"
 msgstr "정렬:"
@@ -2986,11 +3149,26 @@ msgstr "다음 줄과 병합"
 msgid "Połączenie linijki z poprzednią"
 msgstr "이전 줄과 병합"
 
+msgid "Prawo-dół"
+msgstr "오른쪽-아래"
+
+msgid "Prawo-góra"
+msgstr "오른쪽-위"
+
+msgid "Prawo-ponad"
+msgstr "오른쪽-위로"
+
+msgid "Prawo-poniżej"
+msgstr "오른쪽-아래로"
+
+msgid "Prawo-środek"
+msgstr "오른쪽-가운데"
+
 msgid "Prawy dolny róg"
-msgstr "오른쪽 하단"
+msgstr "오른쪽 아래"
 
 msgid "Prawy górny róg"
-msgstr "오른쪽 상단"
+msgstr "오른쪽 위"
 
 msgid "Prawy:"
 msgstr "오른쪽:"
@@ -3049,6 +3227,15 @@ msgstr "시작 시간 전"
 
 msgid "Przed i po aktywnej"
 msgstr "활성화 전/후"
+
+msgid "Przed-dół"
+msgstr "Before-bottom"
+
+msgid "Przed-góra"
+msgstr "Before-top"
+
+msgid "Przed-środek"
+msgstr "Before-center"
 
 msgid ""
 "Przedział od 0 do 10000, gdzie 0 wyłącza\n"
@@ -3121,6 +3308,9 @@ msgid ""
 msgstr ""
 "색상 선택기에서\n"
 "창을 이동합니다"
+
+msgid "Przeskok:"
+msgstr "단계:"
 
 msgid "Przesunięcie czasów"
 msgstr "시간 이동"
@@ -3320,10 +3510,13 @@ msgid "Przyspiesza napisy"
 msgstr "자막을 뒤로 이동"
 
 msgid "Przyspieszenie klatki końcowej w ms:"
-msgstr "End frame offset in ms:"
+msgstr "마지막 프레임 오프셋(ms):"
 
 msgid "Przyspieszenie klatki początkowej w ms:"
-msgstr "Start frame offset in ms:"
+msgstr "시작 프레임 오프셋(ms):"
+
+msgid "Przywróć domyślne"
+msgstr "기본값 복원"
 
 msgid "Przywróć skrót domyślny"
 msgstr "기본 단축키로"
@@ -3377,6 +3570,9 @@ msgstr "태그 재설정"
 msgid "Rodzaj filtrowania:"
 msgstr "필터 유형 :"
 
+msgid "Rodzaj skalowania:"
+msgstr "크기 조정:"
+
 msgid "Rozciągaj"
 msgstr "늘리기"
 
@@ -3417,6 +3613,9 @@ msgstr "ASS로 변환 시 자막 해상도"
 
 msgid "Rozdzielczość wideo"
 msgstr "영상 해상도"
+
+msgid "Rozdzielczość wideo:"
+msgstr "영상 해상도:"
 
 msgid "Rozmiar czcionki"
 msgstr "글꼴 크기"
@@ -3477,6 +3676,9 @@ msgstr "이전 줄과 병합"
 msgid "Scalaj wszystkie \"n\" z poprzednią sylabą"
 msgstr "모든 \"n\"을 이전 음절과 병합"
 
+msgid "Siatka"
+msgstr "격자 무늬"
+
 msgid "Siedemnasty przycisk tagów"
 msgstr "태그 버튼 17"
 
@@ -3516,8 +3718,17 @@ msgstr "테두리 및 그림자 크기"
 msgid "Skalowanie"
 msgstr "크기 조정"
 
+msgid "Skalowanie względem kursora:"
+msgstr "커서 크기 조정:"
+
 msgid "Skaluj obwódkę i cień"
 msgstr "테두리 및 그림자 크기"
+
+msgid "Skaluj szerokość"
+msgstr "너비"
+
+msgid "Skaluj wysokość"
+msgstr "높이"
 
 msgid "Skojarzenia"
 msgstr "파일 연결"
@@ -3832,6 +4043,9 @@ msgstr "맨 앞으로 추가"
 msgid "Tag wstawiany w miejsce kursora"
 msgstr "커서 위치에 추가"
 
+msgid "Tag:"
+msgstr "태그:"
+
 msgid "Tagi wstawiane na początku każdej linijki ass"
 msgstr "ASS 자막 시작 부분에 붙여넣을 태그"
 
@@ -4080,6 +4294,15 @@ msgstr "주석처리"
 msgid "Ustaw jako niepewne i przejdź dalej"
 msgstr "수정하지 않고 다음 줄로 이동"
 
+msgid ""
+"Ustaw kąt z 2 punktów.\n"
+"Po ustawieniu 2 punktów pod tekstem\n"
+"na wideo oblicza z nich kąt."
+msgstr ""
+"두 점에서 각도를 설정합니다.\n"
+"영상의 텍스트 아래에 두 점을 설정한 후\n"
+"각도를 계산합니다."
+
 msgid "Ustaw mimo to"
 msgstr "계속 설정"
 
@@ -4088,6 +4311,48 @@ msgstr "트리 이름"
 
 msgid "Ustaw nowy FPS"
 msgstr "새 프레임"
+
+msgid ""
+"Ustaw pozycję według prostokąta.\n"
+"Po narysowaniu prostokąta tekst zostanie\n"
+"spozycjonowany wg jednej osi badź dwóch\n"
+"dla wybranego położenia."
+msgstr ""
+"사각형으로 위치를 설정합니다..\n"
+"그리기 후 직사각형 선은 선택한 정렬에 대해\n"
+"하나 또는 두 개의 축으로 배치됩니다."
+
+msgid ""
+"Ustaw ruch 2 punktów i pozycji wideo.\n"
+"Po ustawieniu pierwszego punktu przed tekstem który się porusza.\n"
+"Przesunięciu wideo o tyle klatek,\n"
+"by na wideo wciąż był widoczny ten sam element,\n"
+"do którego był ustawiony punkt początkowy.\n"
+"Ruch generuje postawienie drugiego punktu."
+msgstr ""
+"두 점을 영상 위치에서 이동을 설정합니다..\n"
+"이동하는 텍스트 전에 비디오에서 첫 번째 점을 설정한 후,,\n"
+"해당 프레임이 끝나도록 비디오를 설정,\n"
+"첫 번째 설정점의 요소는 계속 표시됩니다.\n"
+"\v두 번째 점 설정 후 이동이 생성됩니다."
+
+msgid ""
+"Ustaw skalę według prostokąta.\n"
+"Po narysowaniu prostokąta tekst zostanie\n"
+"zeskalowany wg jednej osi badź dwóch."
+msgstr ""
+"직사각형으로 설정.\n"
+"직사각형 설정 후\n"
+"두 축 또는 한 축으로 크기가 조정됩니다."
+
+msgid ""
+"Ustaw własny prostokąt dla obecnej skali.\n"
+"W przypadku niepożądanych różnic można ustawić\n"
+"własny prostokąt dla pierwotnej skali."
+msgstr ""
+"사용자 지정 사각형을 설정합니다.\n"
+"자동 크기 계산이 제대로 작동하지 않을 때\n"
+"원점 눈금에 대해 사각형을 설정할 수 있습니다.."
 
 msgid "Ustaw znacznik audio z czasem wideo"
 msgstr "영상지점 소리 표시선 설정"
@@ -4169,6 +4434,9 @@ msgstr "삭제"
 msgid "Usuń element"
 msgstr "제어점 삭제"
 
+msgid "Usuń kształt"
+msgstr "모양 삭제"
+
 msgid "Usuń linijkę"
 msgstr "줄 삭제"
 
@@ -4214,6 +4482,9 @@ msgstr "목록에서 스타일 삭제"
 msgid "Usuń styl z napisów"
 msgstr "목록에서 스타일 삭제"
 
+msgid "Usuń tag"
+msgstr "태크 삭제"
+
 msgid "Usuń tekst"
 msgstr "글자 삭제"
 
@@ -4250,6 +4521,23 @@ msgstr "모든 폴더에서 삭제"
 msgid "Usuń ze słownika"
 msgstr "사전에서 제거"
 
+msgid ""
+"Utrzymanie proporcji, by po obrocie rysunki wektorowe i tekst\n"
+"nie poprzestawiały się względem siebie."
+msgstr ""
+"회전할 때 벡터와 텍스트가 \n"
+"서로 정렬되지 않도록 비율을 유지합니다."
+
+msgid ""
+"Utrzymanie proporcji, by po skalowaniu rysunki wektorowe i tekst\n"
+"nie poprzestawiały się względem siebie."
+msgstr ""
+"크기를 조절할 때 벡터와 텍스트가\n"
+"서로 정렬되지 않도록 비율을 유지하십시오."
+
+msgid "Utrzymuj proporcje"
+msgstr "가로 세로 비율 유지"
+
 msgid "Utwórz"
 msgstr "만들기"
 
@@ -4284,6 +4572,9 @@ msgstr ""
 "%s\n"
 "스타일 삭제:\n"
 "%s"
+
+msgid "Używane tylko w przypadku gdy tag ma 2 wartości bądź więcej"
+msgstr "태그에 2개 이상의 값이 있을 때만 사용"
 
 msgid ""
 "W linii %i nie można przeskalować wartości '%s'\n"
@@ -4321,6 +4612,9 @@ msgstr "레이어"
 
 msgid "Warstwa linijki, wyższe warstwy są na wierzchu"
 msgstr "우선 순위(레이어) 설정, 높을수록 위에 있음"
+
+msgid "Wartość 2:"
+msgstr "두 번째 값:"
 
 msgid "Wartość:"
 msgstr "명도:"
@@ -4436,6 +4730,10 @@ msgstr "영상을 다음 줄의 시작 부분까지 재생"
 msgid "Wideo i napisy"
 msgstr "영상과 자막"
 
+msgid ""
+"Wideo musi być ustawione minimum jedną klatkę po czasie początkowym linijki"
+msgstr "영상은 라인의 시작 시간 이후에 적어도 한 프레임을 설정해야 합니다"
+
 msgid "Wideo nie zostało wczytane przez FFMS2"
 msgstr "FFMS2를 사용하여 영상을 불러오지 않았습니다"
 
@@ -4508,6 +4806,12 @@ msgstr "줄 붙여 넣기"
 
 msgid "Wklejenie tłumaczenia"
 msgstr "번역 붙여 넣기"
+
+msgid "Wpisz nazwę nowego ksztatłu."
+msgstr "새 모양의 이름을 입력하십시오."
+
+msgid "Wpisz nazwę nowego tagu."
+msgstr "새 태그의 이름을 입력하십시오."
 
 msgid "Wpisz tag ASS"
 msgstr "태그 / 글자"
@@ -4593,6 +4897,12 @@ msgstr "시작 시간 전에 삽입합니다 (fad 사용시 좋음)"
 msgid "Wstawia zakończenie do czasu końcowego, dobre przy stosowaniu fad"
 msgstr "종료 시간 후에 삽입합니다 (fad 사용시 좋음)"
 
+msgid "Wstawiany tylko na początku"
+msgstr "텍스트 시작 부분에 태그 삽입"
+
+msgid "Wstawiany w miejscu kursora"
+msgstr "커서 위치에 태그 삽입"
+
 msgid "Wstawienie drzewka"
 msgstr "트리 추가"
 
@@ -4636,6 +4946,9 @@ msgstr "모두"
 
 msgid "Wy&tnij"
 msgstr "잘라내기"
+
+msgid "Wybierz"
+msgstr "선택"
 
 msgid "Wybierz FPS"
 msgstr "프레임 선택"
@@ -4753,6 +5066,9 @@ msgstr "폴더 이름 선택"
 msgid "Wybór stylów"
 msgstr "스타일 선택"
 
+msgid "Wycinek prostokątny z obsługą animacji"
+msgstr "애니메이션을 지원하는 직사각형 캡처"
+
 msgid "Wycinki prostokątne"
 msgstr ""
 "사각형 클립\n"
@@ -4863,7 +5179,7 @@ msgid "Wyśrodkowane"
 msgstr "중앙"
 
 msgid "Wyśrodkowane na dole"
-msgstr "중앙 하단"
+msgstr "중앙 아래"
 
 msgid "Wyśrodkowane po lewej"
 msgstr "왼쪽 중앙"
@@ -4872,7 +5188,7 @@ msgid "Wyśrodkowane po prawej"
 msgstr "오른쪽 중앙"
 
 msgid "Wyśrodkowane u góry"
-msgstr "중앙 상단"
+msgstr "중앙 위"
 
 msgid "Wyświetl dwie zakładki"
 msgstr "두 개의 탭 표시"
@@ -4942,6 +5258,9 @@ msgid ""
 "po wyjściu z pełnego ekranu"
 msgstr "전체 화면 종료 후 영상지점으로 줄 이동"
 
+msgid "Włącz wartość 2:"
+msgstr "두 번째 값 활성화:"
+
 msgid "Włącza okno poprawiania błędów"
 msgstr "자동 바꾸기 창 열기"
 
@@ -4969,11 +5288,23 @@ msgstr "RAM 부족"
 msgid "Za&mień"
 msgstr "바꿈"
 
+msgid "Za-dół"
+msgstr "After-bottom"
+
+msgid "Za-góra"
+msgstr "After-top"
+
+msgid "Za-środek"
+msgstr "After-center"
+
 msgid "Zaawansowane"
 msgstr "고급"
 
 msgid "Zabrakło pamięci RAM, usunięto część historii"
 msgstr "RAM 부족, 일부 기록 삭제"
+
+msgid "Zachowaj proporcje boków"
+msgstr "가로 세로 비율 유지"
 
 msgid "Zahacz wszystko"
 msgstr "모두 확인"
@@ -5122,6 +5453,12 @@ msgstr "\"%s\"로 저장 후에 %s?"
 
 msgid "Zapisać plik przed wczytaniem napisów z MKV?"
 msgstr "MKV의 자막을 불러오기 전에 파일을 저장 하시겠습니까?"
+
+msgid "Zapisać zmiany kształtu \"%s\"?"
+msgstr "\"%s\" 모양 편집을 저장하시겠습니까?"
+
+msgid "Zapisać zmiany tagu \"%s\"?"
+msgstr "\"%s\" 태그의 변경 사항을 저장하시겠습니까?"
 
 msgid "Zapisuj do folderu z napisami / wideo."
 msgstr "영상 저장 / 자막 폴더."
@@ -5295,11 +5632,26 @@ msgstr "쉼표 또는 마침표 뒤에 누락 된 공백을 바꿉니다"
 msgid "Zmiana czasu na wykresie audio"
 msgstr "소리 스펙트럼의 시간 변경"
 
+msgid "Zmiana koordynatów rysunku"
+msgstr "도면 좌표만 변경"
+
 msgid "Zmiana nagłówku napisów"
 msgstr "자막 속성 변경"
 
 msgid "Zmiana rozdzielczości napisów"
 msgstr "자막 해상도 변경"
+
+msgid "Zmiana skali"
+msgstr "스케일 변경"
+
+msgid "Zmiana wszystkich tagów obrotu wokół osi X / Y"
+msgstr "X/Y 회전의 모든 태그 변경"
+
+msgid "Zmiana wszystkich tagów obrotu wokół osi Z"
+msgstr "Z회전 태그 변경Z"
+
+msgid "Zmiana wszystkich tagów skali"
+msgstr "모든 스케일 태그 변경"
 
 msgid "Zmieniacz pozycji"
 msgstr "위치 이동"
@@ -5330,6 +5682,12 @@ msgstr "%i 번 교체했습니다."
 
 msgid "Zmienić wszystkie zaznaczone style?"
 msgstr "선택한 모든 스타일을 변경 하시겠습니까?"
+
+msgid "Zmienna szerokość i wysokość"
+msgstr "폭과 높이 변경"
+
+msgid "Zmienna tylko szerokość"
+msgstr "폭만 변경"
 
 msgid "Zmień"
 msgstr "변경"
@@ -5561,3 +5919,18 @@ msgstr "경로를 사용할 수 없음"
 
 msgid "Ścieżka szukania jest nieprawidłowa"
 msgstr "탐색 경로가 잘못됨"
+
+msgid "Środek"
+msgstr "가운데"
+
+msgid "Środek-dół"
+msgstr "가운데-아래"
+
+msgid "Środek-góra"
+msgstr "가운데-위"
+
+msgid "Środek-ponad"
+msgstr "가운데-위로"
+
+msgid "Środek-poniżej"
+msgstr "가운데-아래로"
